@@ -1,0 +1,11 @@
+browser event
+https://developer.mozilla.org/en-US/docs/Web/Events
+
+icons resource
+https://github.com/Jasbir96/resources
+
+https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications#Example_Using_object_URLs_to_display_images
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.7.4/socket.io.js"></script>
+
+https://www.christianengvall.se/electron-packager-tutorial/
